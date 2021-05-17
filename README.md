@@ -3,10 +3,10 @@
 <img src="https://img.shields.io/badge/Project developed during the -Bootcamp 2020 MERN Stack by 👨‍🏫 Hitesh Choudhary-589636?style=for-the-badge"/>
 </h2>
 <p align="Center">
-  <a href="https://github.com/agftech" target="_blank">
+  <a href="https://github.com/sagar627" target="_blank">
   <img alt="by Sagar" src="https://img.shields.io/badge/made%20by-Sagar-589636">
   </a>
-  <a aria-label="Completed" href="http://italktech.io/mern-coding-bootcamp/">
+  <a aria-label="Completed" href="https://courses.learncodeonline.in/learn/home/Full-Stack-MERN-Bootcamp/">
    <img alt="NLW 2.0" src="https://img.shields.io/badge/ Bootcamp 2020 -MERN Stack-589636">
   </a>
 </p>
