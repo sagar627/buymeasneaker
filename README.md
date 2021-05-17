@@ -22,8 +22,8 @@
 > ---
 > ## :package: _**Platforms**_:
 >
-> - :cloud: [Backend code](https://github.com/sagar627/buymeasneaker/tree/main/backend)
-> - :computer: [Frontend code](https://github.com/sagar627/buymeasneaker/tree/main/frontend)
+> - :cloud: [Backend code](https://github.com/sagar627/buymeasneaker-/tree/main/)
+> - :computer: [Frontend code](https://github.com/sagar627/buymeasneaker-/tree/main/frontend)
 >
 
 
