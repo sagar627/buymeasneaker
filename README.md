@@ -19,9 +19,6 @@
   <a href="#memo-license">License</a>
 </p>
 
----
-Live on Heroku : https://buymeasneaker.herokuapp.com/
-
 > ---
 > ## :package: _**Platforms**_:
 >
